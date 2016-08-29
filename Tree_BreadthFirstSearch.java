@@ -1,5 +1,3 @@
-package ruv.org.mx.web.scheduler;
-
 import java.util.LinkedList;
 import java.util.Queue;
 
